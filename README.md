@@ -5,13 +5,10 @@ This repository contains the completed source code for Tutorial #2 on my YouTube
 **📺 Watch the full tutorial here:** (https://www.youtube.com/@codedbyvin).
 
 ## Features
-* Add a label that displays a "Welcome!" message.
-* Add a richtextbox that will display the full information of the user.
-* Add a combobox(Title), add a three textboxes for your Initials, Name, and Surname respectively.
-* Add labels for each controls that demonstrates the functionality of each control.
-* Add a button to "Show Summary" that displays the Title and Surname of the user.
-* Add a button to "Show Full Details" on the richtextbox.
-* Display student details in a formatted list.
+* Captures student information including Title, Initials, Name, and Surname via a clean, structured form.
+* Automatically generates and extracts a shortened summary (Title and Surname) at the click of a button.
+* Displays the complete, formatted student registration details within a dedicated text viewer.
+* Includes clear instructional labels and intuitive buttons to process user input dynamically.
 
 ## Tech Stack
 * **Language:** C#
